@@ -1,4 +1,7 @@
 # Adverse Event Reporting in the Food and Cosmetics Industry- The CAERS Database
+
+<img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/e03118c6-8dad-4dd7-bd32-5d97493f4200" />
+
 ## Objective- 
 The CAERS database is a critical tool for the FDA, containing adverse event and product complaint reports related to foods, dietary supplements, and cosmetics. This dataset, covering the period from 2004 to the second quarter of 2017, includes detailed records of various products and associated adverse events. Each record is meticulously coded using the Medical Dictionary for Regulatory Activities (MedDRA) terminology, ensuring standardized reporting across different products. The data captures elements like report numbers, product roles, brand names, industry codes, patient demographics, adverse outcomes, and coded symptoms.
 
@@ -17,6 +20,8 @@ The dataset from the CFSAN Adverse Event Reporting System (CAERS) is a comprehen
 9. CI_Gender: Gender of the individual.
 10. AEC_One Row Outcomes: Describes the outcomes of the event, such as hospitalization, ER visit, or non-serious injuries/illness.
 11. SYM_One Row Coded Symptoms: Lists the symptoms reported in association with the adverse event.
+
+<img width="602" height="338" alt="Image" src="https://github.com/user-attachments/assets/f27d6938-4cc9-4d8a-9aab-5ddb652aae5e" />
 
 ## Conclusion 
 1. Comprehensive Data Understanding: The CAERS dataset provided deep insights into adverse event patterns related to food, cosmetics, and dietary supplements reported to the FDA from 2004 to 2017.
