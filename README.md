@@ -21,6 +21,7 @@ The dataset from the CFSAN Adverse Event Reporting System (CAERS) is a comprehen
 10. AEC_One Row Outcomes: Describes the outcomes of the event, such as hospitalization, ER visit, or non-serious injuries/illness.
 11. SYM_One Row Coded Symptoms: Lists the symptoms reported in association with the adverse event.
 
+
 <img width="602" height="338" alt="Image" src="https://github.com/user-attachments/assets/f27d6938-4cc9-4d8a-9aab-5ddb652aae5e" />
 
 ## Conclusion 
